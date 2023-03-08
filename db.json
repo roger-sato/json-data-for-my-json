@@ -1,7 +1,10 @@
 {
   "results": [
     {
-      "userId": 1
+      "userId": 1,
+      "objectId": 422789,
+      "title": "API-54: Question about bulk APIs",
+      "link": "http://example.com/2"
     }
   ]
 }
