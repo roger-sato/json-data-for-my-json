@@ -3,8 +3,17 @@
     {
       "userId": 1,
       "objectId": 422789,
-      "title": "API-54: Question about bulk APIs",
-      "link": "http://example.com/2"
+      "title": "マンパワーグループ株式会社",
+      "link": "https://app-dev.leadpool.ai/search/companies/cc018ec1-518f-4613-b030-442f44827b36",
+    "postal_code": "000-0000",
+    "company_address": "愛知県",
+    "representative_phone_number": "000-0000-000",
+    "company_url": "https://example.com",
+    "year_of_establishment": "2020-02-02",
+    "business_field": "IT",
+    "number_of_employees": "3000",
+    "average_age_of_employees": "33.3",
+    "corporate_number": "000-0000-000"
     }
   ]
 }
