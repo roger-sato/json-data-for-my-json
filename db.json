@@ -19,11 +19,108 @@
           "width": 890,
           "height": 748,
           "uri": "https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik",
-          "label": "選択企業を変更する",
+          "label": "Edit",
+          "associatedObjectProperties": []
+        }
+      ]
+    },
+    {
+      "objectId": 422789,
+      "title": "マンパワ2株式会社",
+      "link": "https://app-dev.leadpool.ai/search/companies/cc018ec1-518f-4613-b030-442f44827b36",
+      "postal_code": "000-0000",
+      "company_address": "愛知県",
+      "representative_phone_number": "000-0000-000",
+      "company_url": "https://example.com",
+      "year_of_establishment": "2020-02-02",
+      "business_field": "IT",
+      "number_of_employees": "3000",
+      "average_age_of_employees": "33.3",
+      "corporate_number": "000-0000-000",
+      "actions": [
+        {
+          "type": "IFRAME",
+          "width": 890,
+          "height": 748,
+          "uri": "https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik",
+          "label": "Edit",
+          "associatedObjectProperties": []
+        }
+      ]
+    },
+    {
+      "objectId": 422789,
+      "title": "マンパワ3株式会社",
+      "link": "https://app-dev.leadpool.ai/search/companies/cc018ec1-518f-4613-b030-442f44827b36",
+      "postal_code": "000-0000",
+      "company_address": "愛知県",
+      "representative_phone_number": "000-0000-000",
+      "company_url": "https://example.com",
+      "year_of_establishment": "2020-02-02",
+      "business_field": "IT",
+      "number_of_employees": "3000",
+      "average_age_of_employees": "33.3",
+      "corporate_number": "000-0000-000",
+      "actions": [
+        {
+          "type": "IFRAME",
+          "width": 890,
+          "height": 748,
+          "uri": "https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik",
+          "label": "Edit",
+          "associatedObjectProperties": []
+        }
+      ]
+    },
+    {
+      "objectId": 422789,
+      "title": "マンパワ4株式会社",
+      "link": "https://app-dev.leadpool.ai/search/companies/cc018ec1-518f-4613-b030-442f44827b36",
+      "postal_code": "000-0000",
+      "company_address": "愛知県",
+      "representative_phone_number": "000-0000-000",
+      "company_url": "https://example.com",
+      "year_of_establishment": "2020-02-02",
+      "business_field": "IT",
+      "number_of_employees": "3000",
+      "average_age_of_employees": "33.3",
+      "corporate_number": "000-0000-000",
+      "actions": [
+        {
+          "type": "IFRAME",
+          "width": 890,
+          "height": 748,
+          "uri": "https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik",
+          "label": "Edit",
+          "associatedObjectProperties": []
+        }
+      ]
+    },
+    {
+      "objectId": 422789,
+      "title": "マンパワ5株式会社",
+      "link": "https://app-dev.leadpool.ai/search/companies/cc018ec1-518f-4613-b030-442f44827b36",
+      "postal_code": "000-0000",
+      "company_address": "愛知県",
+      "representative_phone_number": "000-0000-000",
+      "company_url": "https://example.com",
+      "year_of_establishment": "2020-02-02",
+      "business_field": "IT",
+      "number_of_employees": "3000",
+      "average_age_of_employees": "33.3",
+      "corporate_number": "000-0000-000",
+      "actions": [
+        {
+          "type": "IFRAME",
+          "width": 890,
+          "height": 748,
+          "uri": "https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik",
+          "label": "Edit",
           "associatedObjectProperties": []
         }
       ]
     }
+
   ]
 }
 
