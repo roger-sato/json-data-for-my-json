@@ -18,7 +18,7 @@
           "type": "IFRAME",
           "width": 890,
           "height": 748,
-          "uri": "https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik",
+          "uri": "http://localhost:8080/search-company?resource=organization&view=details&userId=13868437&companyId=7749703&selectedIds=35137&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEzODY4NDM3LCJjb21wYW55SWQiOjc3NDk3MDMsImlhdCI6MTY3ODUxNTY1NiwiZXhwIjoxNjc4NTE1NzE2fQ.OW9_0_B2OHWTlA-uRNPZUZsd6hF7W2DUwQqP1xFh-PE",
           "label": "選択企業を変更する",
           "associatedObjectProperties": []
         }
