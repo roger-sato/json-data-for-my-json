@@ -10,7 +10,7 @@
           "height": 748,
           "uri": "http://localhost:8080/search-company",
           "label": "Search Company",
-          "associatedObjectProperties": ["name","leadpool_integrated_id","record_id"]
+          "associatedObjectProperties": ["name","leadpool_integrated_id","hs_object_id"]
         }
       ]
     }
