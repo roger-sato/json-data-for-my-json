@@ -2,24 +2,14 @@
   "results": [
     {
       "objectId": 422943,
-      "title": "マンパワーグループ株式会社",
-      "link": "https://app-dev.leadpool.ai/search/companies/cc018ec1-518f-4613-b030-442f44827b36",
-      "postal_code": "000-0000",
-      "company_address": "愛知県",
-      "representative_phone_number": "000-0000-000",
-      "company_url": "https://example.com",
-      "year_of_establishment": "2020-02-02",
-      "business_field": "IT",
-      "number_of_employees": "3000",
-      "average_age_of_employees": "33.3",
-      "corporate_number": "000-0000-000",
+      "title": "Search Company",
       "actions": [
         {
           "type": "IFRAME",
           "width": 1020,
           "height": 748,
           "uri": "http://localhost:8080/search-company?resource=organization&view=details&userId=13868437&companyId=7749703&selectedIds=35137&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEzODY4NDM3LCJjb21wYW55SWQiOjc3NDk3MDMsImlhdCI6MTY3ODUxNTY1NiwiZXhwIjoxNjc4NTE1NzE2fQ.OW9_0_B2OHWTlA-uRNPZUZsd6hF7W2DUwQqP1xFh-PE",
-          "label": "選択企業を変更する",
+          "label": "Search Company",
           "associatedObjectProperties": []
         }
       ]
