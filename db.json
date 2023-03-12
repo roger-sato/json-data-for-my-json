@@ -8,9 +8,9 @@
           "type": "IFRAME",
           "width": 1020,
           "height": 748,
-          "uri": "http://localhost:8080/search-company?resource=organization&view=details&userId=13868437&companyId=7749703&selectedIds=35137&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEzODY4NDM3LCJjb21wYW55SWQiOjc3NDk3MDMsImlhdCI6MTY3ODUxNTY1NiwiZXhwIjoxNjc4NTE1NzE2fQ.OW9_0_B2OHWTlA-uRNPZUZsd6hF7W2DUwQqP1xFh-PE",
+          "uri": "http://localhost:8080/search-company",
           "label": "Search Company",
-          "associatedObjectProperties": []
+          "associatedObjectProperties": ["name","integrated_id"]
         }
       ]
     }
