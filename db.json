@@ -6,8 +6,8 @@
       "actions": [
         {
           "type": "IFRAME",
-          "width": 1020,
-          "height": 748,
+          "width": 2048,
+          "height": 1024,
           "uri": "http://localhost:8080/search-company",
           "label": "Search Company",
           "associatedObjectProperties": ["name","leadpool_integrated_id","hs_object_id"]
